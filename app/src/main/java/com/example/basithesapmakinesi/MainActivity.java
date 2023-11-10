@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
     float valueOne,valueTwo;
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
